@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://voltledger.vercel.app/sitemap.xml
